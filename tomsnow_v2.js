@@ -3,8 +3,9 @@
 // Version 2. Uses canvas.
 //
 // tomsnow_v2.js
+// http://www.aurochs.org/tomsnow/
 // http://www.aurochs.org/tomsnow/tomsnow_v2.js
-// github something something
+// https://github.com/Orangeaurochs/tomsnow
 //
 // By Thomas Meehan | @orangeaurochs | tom@aurochs.org
 // November 2015
